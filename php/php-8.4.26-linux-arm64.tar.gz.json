@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "version": "8.4.26",
+  "branch": "8.4",
+  "architecture": "arm64",
+  "filename": "php-8.4.26-linux-arm64.tar.gz",
+  "source_url": "https://www.php.net/distributions/php-8.4.26.tar.gz",
+  "source_sha256": "c248abaebc4bb777b80968f0760da0da8e989836e896c9ff637b6775d7d37662",
+  "builder_sha256": "c6c4fa959947bbaed7ab42416fda3165531976c7d06a338f1cbc13f9de27e613",
+  "prefix": "/opt/slimpanel/php/8.4.26",
+  "config_path": "/etc/php/8.4/fpm",
+  "loader": "ld-linux-aarch64.so.1",
+  "build_os": "PRETTY_NAME=\"Ubuntu 26.04 LTS\"\nNAME=\"Ubuntu\"\nVERSION_ID=\"26.04\"\nVERSION=\"26.04 LTS (Resolute Raccoon)\"\nVERSION_CODENAME=resolute\nID=ubuntu\nID_LIKE=debian\nHOME_URL=\"https://www.ubuntu.com/\"\nSUPPORT_URL=\"https://help.ubuntu.com/\"\nBUG_REPORT_URL=\"https://bugs.launchpad.net/ubuntu/\"\nPRIVACY_POLICY_URL=\"https://www.ubuntu.com/legal/terms-and-policies/privacy-policy\"\nUBUNTU_CODENAME=resolute\nLOGO=ubuntu-logo",
+  "libc": "bundled-glibc",
+  "extensions": [
+    "bcmath",
+    "curl",
+    "dom",
+    "exif",
+    "fileinfo",
+    "gd",
+    "intl",
+    "mbstring",
+    "mysqli",
+    "pdo_mysql",
+    "pdo_sqlite",
+    "sockets",
+    "xml",
+    "zip"
+  ],
+  "sha256": "f12660a9f5efdb315afe6a859863e3def67b6e23cacd22085dbddea28b7c0783"
+}
