@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "version": "8.3.35",
+  "branch": "8.3",
+  "architecture": "amd64",
+  "filename": "php-8.3.35-linux-amd64.tar.gz",
+  "source_url": "https://www.php.net/distributions/php-8.3.35.tar.gz",
+  "source_sha256": "e60396276fd57e8210f88919d9acd4aab98d65fbb7f431c13285ca1fb04ff205",
+  "builder_sha256": "c6c4fa959947bbaed7ab42416fda3165531976c7d06a338f1cbc13f9de27e613",
+  "prefix": "/opt/slimpanel/php/8.3.35",
+  "config_path": "/etc/php/8.3/fpm",
+  "loader": "ld-linux-x86-64.so.2",
+  "build_os": "PRETTY_NAME=\"Debian GNU/Linux 13 (trixie)\"\nNAME=\"Debian GNU/Linux\"\nVERSION_ID=\"13\"\nVERSION=\"13 (trixie)\"\nVERSION_CODENAME=trixie\nDEBIAN_VERSION_FULL=13.6\nID=debian\nHOME_URL=\"https://www.debian.org/\"\nSUPPORT_URL=\"https://www.debian.org/support\"\nBUG_REPORT_URL=\"https://bugs.debian.org/\"",
+  "libc": "bundled-glibc",
+  "extensions": [
+    "bcmath",
+    "curl",
+    "dom",
+    "exif",
+    "fileinfo",
+    "gd",
+    "intl",
+    "mbstring",
+    "mysqli",
+    "pdo_mysql",
+    "pdo_sqlite",
+    "sockets",
+    "xml",
+    "zip"
+  ],
+  "sha256": "b02630b91e733c68265a9c780521afd898364ea05c3e65b4da207fefd110150b"
+}
